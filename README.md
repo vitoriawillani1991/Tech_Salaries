@@ -1,5 +1,8 @@
 # Technology Professionals' Salary Analysis
 
+![Texto Alternativo](https://www.visualcapitalist.com/wp-content/uploads/2021/08/BORG_The-Average-Tech-Salary-Across-the-US_National-Stats_2-1-768x576-1.png)
+
+
 This project aims to provide insights into the salaries of technology professionals by conducting exploratory data analysis (EDA) and implementing machine learning models to predict salaries. The dataset used in this analysis contains information on gender, education level, years of experience, job titles, and corresponding salaries.
 
 ## Table of Contents
